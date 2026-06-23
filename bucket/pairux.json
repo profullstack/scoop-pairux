@@ -1,10 +1,10 @@
 {
-  "version": "0.8.4",
+  "version": "0.8.5",
   "description": "Collaborative screen sharing with remote control",
   "homepage": "https://pairux.com",
   "license": "MIT",
-  "url": "https://github.com/profullstack/pairux.com/releases/download/v0.8.4/PairUX.Setup.0.8.4.exe",
-  "hash": "0ac2585b0f503566045bc8339cd84a3f00f6cbac05e6f11af18aeaef85043a45",
+  "url": "https://github.com/profullstack/pairux.com/releases/download/v0.8.5/PairUX.Setup.0.8.5.exe",
+  "hash": "579df52fec4ec0f6a7682eef85b3449903cfdf2da4a71e21f600ddad60e1390e",
   "installer": {
     "args": [
       "/S",
